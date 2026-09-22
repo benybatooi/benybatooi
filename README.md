@@ -76,14 +76,15 @@ My goal is to keep developing my skills, build practical products, and turn idea
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benybatooi&show_icons=true&locale=en" alt="Benyamin Bati's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benybatooi&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
-</p>
+This GitHub profile is where I share my learning journey, experiments, and development projects as I continue growing as a Front-End Developer.
 
----
+I use this space to practice, build real projects, explore new technologies, and document my progress along the way.
+
+My current focus is Front-End Development, with a long-term goal of exploring **Blockchain and Web3**.
+
+**Follow me on GitHub to follow my journey and see what I build next.** 👨‍💻
 
 ## 🤝 Connect With Me
 
