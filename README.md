@@ -1,6 +1,6 @@
-# Hi, I'm Benyamin Bati 👋
+# Hi, I'm Benyamin Batooi 👋
 
-### Beny Bati | Web Designer & Front-End Developer | JavaScript • React • UI/UX
+### Beny Batooi | Web Designer & Front-End Developer | JavaScript • React • UI/UX
 
 ### Founder of BenyWeb
 
@@ -79,8 +79,8 @@ My goal is to keep developing my skills, build practical products, and turn idea
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benyweb&show_icons=true&locale=en" alt="Benyamin Bati's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benyweb&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=benybatooi&show_icons=true&locale=en" alt="Benyamin Bati's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benybatooi&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
 </p>
 
 ---
@@ -88,21 +88,27 @@ My goal is to keep developing my skills, build practical products, and turn idea
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/benyweb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42"/>
+  <a href="https://github.com/benybatooi" target="_blank">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/benyamin-batooi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="42" height="42"/>
+  <a href="https://linkedin.com/in/benyamin-batooi" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/official_benyweb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="Instagram" title="Instagram" width="42" height="42"/>
+    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" title="Instagram" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://benyweb.ir" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" title="Website" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/Benyweb_Channel" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" title="Telegram" width="42" height="42"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://benyweb.ir">🌐 Website</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:benyweb.ir@gmail.com">📧 Email</a>
+  <sub>GitHub • LinkedIn • Instagram • Website • Telegram</sub>
 </p>
