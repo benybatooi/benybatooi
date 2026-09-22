@@ -20,15 +20,15 @@ My current focus is completing my Front-End development path, strengthening my p
 
 ---
 
-## 🧭 My Learning Path
+## 🚀 My GitHub Journey
 
-My current focus is completing my **Front-End Development** journey through continuous learning and hands-on projects.
+This GitHub profile is where I share my learning journey, experiments, and development projects as I continue growing as a Front-End Developer.
 
-**Front-End → Blockchain & Web3**
+I use this space to practice, build real projects, explore new technologies, and document my progress along the way.
 
-HTML → CSS → JavaScript → Tailwind CSS → React → TypeScript → Blockchain → Web3
+My current focus is Front-End Development, with a long-term goal of exploring **Blockchain and Web3**.
 
----
+**Follow me on GitHub to follow my journey and see what I build next.** 👨‍💻
 
 ## 🏢 Founder
 
@@ -89,23 +89,23 @@ My goal is to keep developing my skills, build practical products, and turn idea
 
 <p align="center">
   <a href="https://github.com/benybatooi" target="_blank">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" alt="GitHub" title="GitHub" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/benyamin-batooi" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/official_benyweb" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" title="Instagram" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg" alt="Instagram" title="Instagram" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://benyweb.ir" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome" alt="Website" title="Website" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" alt="Website" title="Website" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Benyweb_Channel" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram" alt="Telegram" title="Telegram" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" alt="Telegram" title="Telegram" width="42" height="42"/>
   </a>
 </p>
 
