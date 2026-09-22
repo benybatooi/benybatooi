@@ -1,52 +1,108 @@
+# Hi, I'm Benyamin Bati 👋
 
-  <img src="https://raw.githubusercontent.com/benyweb/benyweb/main/1.jpg" alt="Banner" width="100%"/>
-  
-  <h1>Hi 👋, I'm Benyamin Batooi</h1>
-  <h3>Web Designer & Front-End Developer | React • JavaScript • UI/UX<br>
-  Software Engineering Student | Founder of BenyWeb<br>
-  Neyshabur, Iran 🇮🇷 | Open to remote & international opportunities 🚀</h3>
-  🌟 About Me</h2>
+### Beny Bati | Web Designer & Front-End Developer | JavaScript • React • UI/UX
 
+### Founder of BenyWeb
 
-🌍 Based in Iran, I'm a passionate <strong>Web Designer</strong> and <strong>Front-End Developer</strong> specializing in crafting modern, responsive websites that truly shine.<br><br>
+I'm a developer focused on learning, building, and turning ideas into real digital projects.
 
-🛠️ My toolkit includes <strong>HTML, CSS, JavaScript, React</strong>, and <strong>UI/UX design</strong> — turning ideas into sleek, user-friendly experiences.<br><br>
+My current focus is completing my Front-End development path, strengthening my programming skills, and gaining practical experience through real-world projects.
 
-📂 Most of my projects are personal and practice-driven, focused on strengthening real-world skills in design and development to build practical, impactful solutions.<br><br>
+---
 
-🚀 As the <strong>Founder of BenyWeb</strong>, I’m deeply invested in hands-on learning, continuous improvement, and pushing my creative and technical limits.<br><br>
+## 👨‍💻 About Me
 
-🎯 My ambition is to expand into broader tech domains while building a strong personal and professional brand.<br><br>
+* 🌱 Continuously learning and improving my skills in web design and development.
+* 💻 Interested in modern web interfaces, Front-End development, and building practical digital experiences.
+* 🚀 My next major goal is to enter the world of **Blockchain and Web3**.
+* 🏢 Founder of **BenyWeb**, a brand focused on web development, digital products, and technology.
+* 🎯 I enjoy deep learning, building real projects, and turning ideas into useful solutions.
 
-💼 Open to exciting job opportunities, remote work, and international collaborations — let’s connect and create something amazing! 📩
+---
+
+## 🧭 My Learning Path
+
+My current focus is completing my **Front-End Development** journey through continuous learning and hands-on projects.
+
+**Front-End → Blockchain & Web3**
+
+HTML → CSS → JavaScript → Tailwind CSS → React → TypeScript → Blockchain → Web3
+
+---
+
+## 🏢 Founder
+
+### BenyWeb
+
+I am the **Founder of BenyWeb**, a brand focused on **Web Development, Digital Products, and Technology**.
+
+My goal is to keep developing my skills, build practical products, and turn ideas into meaningful real-world projects.
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" title="React" width="50" height="50"/>
+  </a>
 </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=benyweb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🚀 **I'm currently working on** BenyWeb – My personal portfolio and real-world Front-End projects
-- 🌍 **All of my projects are available at** Check my pinned repositories or visit [BenyWeb](https://benyweb.ir) (به زودی!)
-- 📫 **How to reach me** benyweb.ir@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/benyamin-batooi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/official_benyweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+<p align="center">
+  <sub>HTML • CSS • JavaScript • React • Tailwind CSS • TypeScript</sub>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benyweb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=benyweb&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benyweb&theme=radical" alt="GitHub Streak" />
-</div>
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benyweb&show_icons=true&locale=en" alt="Benyamin Bati's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=benyweb&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/benyweb" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/benyamin-batooi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/official_benyweb" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" alt="Instagram" title="Instagram" width="42" height="42"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://benyweb.ir">🌐 Website</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:benyweb.ir@gmail.com">📧 Email</a>
+</p>
